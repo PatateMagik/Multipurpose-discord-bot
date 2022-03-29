@@ -1,17 +1,17 @@
 {
     "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "prefix": ".",
     "ownerIDS": [
-        "442355791412854784"
+        "541365287832911883"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text": "{prefix}help | by Patate",
+        "text2": "By: Patate",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": ""
     },
     "clientsettings": {
         "nodes": [
